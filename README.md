@@ -1,4 +1,4 @@
 # korvocss
-KorvoCSS is a lightweight classless css framework developed and maintained by Devin Eugene Cuffee. 
+KorvoCSS is a lightweight classless CSS framework developed and maintained by Devin Eugene Cuffee. 
 
 
