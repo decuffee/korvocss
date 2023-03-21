@@ -1,0 +1,495 @@
+
+/*
+* 
+*   Sviso CSS
+*   Description: Sviso CSS is a minimalist CSS stylesheet to style semantic HTML markup without CSS classes. No CSS classes needed. It is based on Swiss Style (International Typographic Style).
+*
+*   Stylesheet URI: https://________
+*   Documentation URI: https://_____/docs
+*
+*   Developer: Devin Eugene Cuffee
+*   Developer URI: https://cuffee.io
+*   Version: 1.0
+* 
+*/
+
+
+/* Inter */
+@import url('https://fonts.googleapis.com/css?family=Inter:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap');
+
+
+/* Roboto */
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic&display=swap');
+
+
+/* Open Sans */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&display=swap');
+
+
+/* Raleway */
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900&display=swap');
+
+
+
+/* ************************ */
+/* Variables */
+/* ************************ */
+
+:root {
+    --black: black;
+    --white: white;
+    --light: gainsboro;
+  }
+
+
+/* ************************ */
+/* Document */
+/* ************************ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    content: "";
+}
+
+/* ************************ */
+/* Content Sections */
+/* ************************ */
+address {
+    content: "";
+}
+
+article {
+    content: "";
+}
+
+aside {
+    content: "";
+}
+
+footer {
+    content: "";
+}
+
+header {
+    content: "";
+}
+
+h1 {
+    content: "";
+}
+
+h2 {
+    content: "";
+}
+
+h3 {
+    content: "";
+}
+
+h4 {
+    content: "";
+}
+
+h5 {
+    content: "";
+}
+
+h6 {
+    content: "";
+}
+
+main {
+    content: "";
+}
+
+nav {
+    content: "";
+}
+
+section {
+    content: "";
+}
+
+
+/* ************************ */
+/* Text Formatting */
+/* ************************ */
+blockquote {
+    content: "";
+}
+
+dd {
+    content: "";
+}
+
+div {
+    content: "";
+}
+
+dl {
+    content: "";
+}
+
+dt {
+    content: "";
+}
+
+hr {
+    content: "";
+}
+
+menu {
+    content: "";
+}
+
+p {
+    content: "";
+}
+
+pre {
+    content: "";
+}
+
+/* ************************ */
+/* Inline Text Formatting */
+abbr {/* ************************ */
+    content: "";
+}
+
+b {
+    content: "";
+}
+
+bdi {
+    content: "";
+}
+
+bdo {
+    content: "";
+}
+
+br {
+    content: "";
+}
+
+cite {
+    content: "";
+}
+
+code {
+    content: "";
+}
+
+data {
+    content: "";
+}
+
+dfn {
+    content: "";
+}
+
+em {
+    content: "";
+}
+
+i {
+    content: "";
+}
+
+kbd {
+    content: "";
+}
+
+mark {
+    content: "";
+}
+
+q {
+    content: "";
+}
+
+rp {
+    content: "";
+}
+
+rt {
+    content: "";
+}
+
+ruby {
+    content: "";
+}
+
+s {
+    content: "";
+}
+
+samp {
+    content: "";
+}
+
+small {
+    content: "";
+}
+
+span {
+    content: "";
+}
+
+strong {
+    content: "";
+}
+
+sub {
+    content: "";
+}
+
+sup {
+    content: "";
+}
+
+time {
+    content: "";
+}
+
+u {
+    content: "";
+}
+
+var {
+    content: "";
+}
+
+wbr {
+    content: "";
+}
+
+/* ************************ */
+/* Links */
+a {/* ************************ */
+    content: "";
+}
+
+link {
+    content: "";
+}
+
+/* ************************ */
+/* Images and Media */
+img {/* ************************ */
+    content: "";
+}
+
+map {
+    content: "";
+}
+
+picture {
+    content: "";
+}
+
+svg {
+    content: "";
+}
+
+figcaption {
+    content: "";
+}
+
+figure {
+    content: "";
+}
+
+math {
+    content: "";
+}
+
+canvas {
+    content: "";
+}
+
+area {
+    content: "";
+}
+
+audio {
+    content: "";
+}
+
+track {
+    content: "";
+}
+
+video {
+    content: "";
+}
+
+/* ************************ */
+/* Lists */
+ul {/* ************************ */
+    content: "";
+}
+
+ol {
+    content: "";
+}
+
+li {
+    content: "";
+}
+
+/* ************************ */
+/* Forms */
+button {/* ************************ */
+    content: "";
+}
+
+datalist {
+    content: "";
+}
+
+fieldset {
+    content: "";
+}
+
+form {
+    content: "";
+}
+
+input {
+    content: "";
+}
+
+label {
+    content: "";
+}
+
+legend {
+    content: "";
+}
+
+meter {
+    content: "";
+}
+
+optgroup {
+    content: "";
+}
+
+option {
+    content: "";
+}
+
+output {
+    content: "";
+}
+
+progress {
+    content: "";
+}
+
+select {
+    content: "";
+}
+
+textarea {
+    content: "";
+}
+
+/* ************************ */
+/* Tables */
+caption {/* ************************ */
+    content: "";
+}
+
+col {
+    content: "";
+}
+
+colgroup {
+    content: "";
+}
+
+table {
+    content: "";
+}
+
+tbody {
+    content: "";
+}
+
+td {
+    content: "";
+}
+
+tfoot {
+    content: "";
+}
+
+th {
+    content: "";
+}
+
+thead {
+    content: "";
+}
+
+tr {
+    content: "";
+}
+
+/* ************************ */
+/* Interactive Elements */
+details {/* ************************ */
+    content: "";
+}
+
+dialog {
+    content: "";
+}
+
+summary {
+    content: "";
+}
+
+/* ************************ */
+/* Embedded Content */
+iframe {/* ************************ */
+    content: "";
+}
+
+embed {
+    content: "";
+}
+
+object {
+    content: "";
+}
+
+portal {
+    content: "";
+}
+
+source {
+    content: "";
+}
+
+param {
+    content: "";
+}
+
+/* ************************ */
+/* Edits */
+del {/* ************************ */
+    content: "";
+}
+
+ins {
+    content: "";
+}
+
